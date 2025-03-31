@@ -4010,11 +4010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
+      "projectUniqueName": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
       "projectName": "CozyHavenStayApp",
-      "projectPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
+      "projectPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
       "packagesPath": "C:\\Users\\abisr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\obj\\",
+      "outputPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abisr\\AppData\\Roaming\\NuGet\\NuGet.Config",

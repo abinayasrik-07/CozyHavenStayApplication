@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VB9Eq+ydKwI=",
+  "dgSpecHash": "BmmABiOm5Uo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
+  "projectFilePath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\CozyHavenStayApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abisr\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\abisr\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

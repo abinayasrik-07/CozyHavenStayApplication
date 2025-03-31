@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\",
+  "WorkspaceRootPath": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstaysolution\\cozyhavenstayapp\\contexts\\cozyhavenstaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayapplication\\cozyhavenstaysolution\\cozyhavenstayapp\\contexts\\cozyhavenstaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|solutionrelative:cozyhavenstayapp\\contexts\\cozyhavenstaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstaysolution\\cozyhavenstayapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|c:\\users\\abisr\\onedrive\\desktop\\hexaware\\technical training 2\\cozyhavenstayapplication\\cozyhavenstaysolution\\cozyhavenstayapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8DCA55BC-3006-47A2-A6A6-B69F4B2C024B}|CozyHavenStayApp\\CozyHavenStayApp.csproj|solutionrelative:cozyhavenstayapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -20,19 +20,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\appsettings.json",
-              "RelativeDocumentMoniker": "CozyHavenStayApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\appsettings.json",
-              "RelativeToolTip": "CozyHavenStayApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-30T15:53:24.462Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -47,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CozyHavenStayApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\appsettings.json",
+              "RelativeToolTip": "CozyHavenStayApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T15:53:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CozyHavenStayContext.cs",
-              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
+              "DocumentMoniker": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
               "RelativeDocumentMoniker": "CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
-              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStaySolution\\CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
+              "ToolTip": "C:\\Users\\abisr\\OneDrive\\Desktop\\Hexaware\\Technical Training 2\\CozyHavenStayApplication\\CozyHavenStaySolution\\CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
               "RelativeToolTip": "CozyHavenStayApp\\Contexts\\CozyHavenStayContext.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAA+wD8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T15:33:18.432Z",
               "EditorCaption": ""
